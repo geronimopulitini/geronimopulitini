@@ -1,10 +1,5 @@
 ## Hi there 👋
 
-<!--
-**geronimopulitini/geronimopulitini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Data Zoom
 - 🌱 I’m currently learning Probability and Statistic
 - 👯 I’m looking to collaborate on ...
