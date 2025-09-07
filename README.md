@@ -1,5 +1,3 @@
-## Hi there 👋
-
 - 🔭 I’m currently working on Data Zoom
 - 🌱 I’m currently learning Probability and Statistic
 - 👯 I’m looking to collaborate on ...
@@ -9,7 +7,6 @@
 * Number: +55(021)97119-5207
 * Email: geronimo.sp@outlook.com
 - ⚡ Fun fact: I love anime
--->
 
 
  <div style="display: inline_block"><br>
