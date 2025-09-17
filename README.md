@@ -1,12 +1,14 @@
-- 🔭 I’m currently working on Data Zoom
-- 🌱 I’m currently learning Probability and Statistic
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with Data Cientist or Data analitcs or Quant Finance
-- 💬 Ask me about Jobs
-- 📫 How to reach me: 
-* Number: +55(021)97119-5207
-* Email: geronimo.sp@outlook.com
-- ⚡ Fun fact: I love anime
+# 👋 Olá! Eu sou o Gerônimo
+
+🎓 Estudante de Economia na PUC-Rio | 📊 Ciência de Dados | 📈 Finanças Quant |  
+
+💡 Interesses:  
+- Econometria, estatística e aprendizado de máquina  
+- Visualização e análise de dados sociais  
+- Modelagem preditiva e simulação  
+
+📌 Aqui você encontra meus estudos, projetos acadêmicos e experimentos com dados.  
+Sempre aberto a colaborações e novas ideias!
 
 
  <div style="display: inline_block"><br>
