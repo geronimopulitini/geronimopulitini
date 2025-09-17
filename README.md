@@ -3,7 +3,7 @@
 🎓 Estudante de Economia na PUC-Rio | 📊 Ciência de Dados | 📈 Finanças Quant |  
 
 💡 Interesses:  
-- Econometria, estatística e aprendizado de máquina  
+- Estatística, Machine learning e Matemática  
 - Visualização e análise de dados sociais  
 - Modelagem preditiva e simulação  
 
